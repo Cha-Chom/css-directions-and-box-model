@@ -1,1 +1,30 @@
 /* Start coding here */
+* {
+  box-sizing: border-box; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.line1 { 
+  width: 100vw;
+  height: 100vh;
+  border: 16px solid lightgrey;
+}
+
+.line2 {
+  height: 100%;
+  border: 16px solid black;;      
+}
+
+
+.line3 {
+  display: flex;
+  justify-content: center;
+  background-color: khaki;
+  border: 24px solid crimson;
+  font-size: 72px;
+  height: 100%;
+}

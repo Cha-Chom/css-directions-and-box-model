@@ -1,1 +1,40 @@
 /* Start coding here */
+.header {
+         background-color: grey;
+        color: violet;
+        text-align: left;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        padding-left: 30px;
+        }
+.header h2 {
+        margin: 0;
+        font-size: 24px;
+        }
+.container {
+        width: 90%;
+        max-width: 600px;
+        background-color: lightblue;
+        color: black;
+        margin: 30px;
+        padding: 20px;       
+        }
+.cafe-image {
+        width: 100%;
+        height: auto;
+        display: block;
+        padding: 10px;
+        }
+
+
+h3 {
+        margin: 0;
+        padding: 10px 0px 10px 10px;
+        color: black;
+}
+
+.detail p {
+        margin: 0;
+        padding: 10px;
+}
