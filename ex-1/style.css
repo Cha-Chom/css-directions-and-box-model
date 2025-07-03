@@ -1,1 +1,44 @@
-/* Start coding here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: #7c97b3;
+    text-align: left;
+    padding: 30px;
+}
+
+.header h1 {
+    color: #2a3f56;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container {
+    justify-content: center;
+    border: #3c536b 3px solid;
+    background-color: #d4e5f7;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 45vw;
+}
+
+.container h2 {
+    color: #39526d;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.container p {
+    color: #39526d;
+    font-size: 14px;
+}
+
+.container img {
+    text-decoration: none;
+    margin: 10px 0;
+}
